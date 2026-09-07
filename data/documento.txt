@@ -1,0 +1,5 @@
+Python es un lenguaje de programación creado por Guido van Rossum.
+
+PyTorch es una librería desarrollada para inteligencia artificial y aprendizaje profundo.
+
+Una red neuronal artificial aprende ajustando sus pesos durante el entrenamiento.
