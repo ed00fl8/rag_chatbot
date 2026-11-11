@@ -1,0 +1,60 @@
+{"id":"faiss-01","category":"direct","language":"en","question":"What is FAISS used for?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-02","category":"paraphrase","language":"en","question":"Which library provides efficient similarity search over dense vectors?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-03","category":"direct","language":"en","question":"What kind of data does FAISS search efficiently?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-04","category":"paraphrase","language":"en","question":"Which project is intended for searching collections of dense vector representations?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-05","category":"technical","language":"en","question":"What problem does the FAISS library address in vector retrieval systems?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-06","category":"direct","language":"en","question":"Which library is associated with similarity search and clustering of dense vectors?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-07","category":"paraphrase","language":"en","question":"If an application stores text embeddings, which library can search those vectors by similarity?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-08","category":"multilingual","language":"es","question":"¿Para qué se utiliza FAISS?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-09","category":"multilingual","language":"es","question":"¿Qué biblioteca permite buscar de forma eficiente entre vectores densos?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-10","category":"multilingual","language":"es","question":"¿Qué problema de búsqueda aborda FAISS en sistemas basados en embeddings?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-11","category":"technical","language":"en","question":"Which official project documentation describes efficient similarity search for dense vectors?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-12","category":"paraphrase","language":"en","question":"What component would you use to perform nearest-neighbor-style search over vector embeddings?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-13","category":"multilingual","language":"es","question":"¿Qué herramienta del corpus está orientada a la búsqueda de similitud vectorial?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-14","category":"direct","language":"en","question":"What is the primary purpose stated by the FAISS project?","relevant_sources":["faiss-overview.md"]}
+{"id":"faiss-15","category":"technical","language":"en","question":"In a retrieval pipeline, which library can handle similarity search over dense vector representations?","relevant_sources":["faiss-overview.md"]}
+{"id":"st-01","category":"direct","language":"en","question":"What is semantic textual similarity?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-02","category":"paraphrase","language":"en","question":"How can Sentence Transformers compare the meaning of two sentences?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-03","category":"technical","language":"en","question":"What does a sentence embedding represent in a semantic similarity workflow?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-04","category":"direct","language":"en","question":"Which Sentence Transformers method is commonly used to encode sentences into embeddings?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-05","category":"paraphrase","language":"en","question":"How do you obtain vector representations before comparing sentence similarity?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-06","category":"technical","language":"en","question":"What is the purpose of computing similarity between sentence embeddings?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-07","category":"direct","language":"en","question":"Which library documentation explains semantic textual similarity with sentence embeddings?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-08","category":"paraphrase","language":"en","question":"How can two encoded text snippets be compared for semantic closeness?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-09","category":"multilingual","language":"es","question":"¿Qué significa similitud textual semántica?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-10","category":"multilingual","language":"es","question":"¿Cómo se pueden comparar dos frases mediante embeddings?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-11","category":"multilingual","language":"es","question":"¿Qué método de Sentence Transformers genera representaciones vectoriales de frases?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-12","category":"technical","language":"en","question":"Which documentation covers measuring semantic similarity between text inputs using Sentence Transformers?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-13","category":"paraphrase","language":"en","question":"What is the usual workflow for turning sentences into embeddings and comparing them?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-14","category":"multilingual","language":"es","question":"¿Para qué sirve calcular la similitud entre embeddings de oraciones?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"st-15","category":"technical","language":"en","question":"Which official documentation describes semantic similarity scoring for sentence representations?","relevant_sources":["sentence-transformers-semantic-similarity.html"]}
+{"id":"fastapi-01","category":"direct","language":"en","question":"How do you create a FastAPI application instance?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-02","category":"direct","language":"en","question":"Which decorator declares a GET path operation in FastAPI?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-03","category":"technical","language":"en","question":"What is a path operation in FastAPI?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-04","category":"direct","language":"en","question":"Which default URL opens the interactive Swagger UI documentation?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-05","category":"direct","language":"en","question":"Which default URL provides the ReDoc documentation interface?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-06","category":"paraphrase","language":"en","question":"How does a FastAPI tutorial register a function to handle GET requests?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-07","category":"technical","language":"en","question":"What does the FastAPI instance represent in a basic application?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-08","category":"paraphrase","language":"en","question":"Where can a developer inspect the automatically generated API documentation in a basic FastAPI app?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-09","category":"multilingual","language":"es","question":"¿Cómo se crea una instancia de una aplicación FastAPI?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-10","category":"multilingual","language":"es","question":"¿Qué decorador registra una operación GET en FastAPI?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-11","category":"multilingual","language":"es","question":"¿Cuál es la ruta predeterminada para abrir la documentación interactiva de FastAPI?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-12","category":"technical","language":"en","question":"How are URL paths connected to Python functions in the first-steps example?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-13","category":"direct","language":"en","question":"Which framework documentation demonstrates the @app.get path operation decorator?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-14","category":"multilingual","language":"es","question":"¿Qué interfaz de documentación genera FastAPI para explorar una API?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"fastapi-15","category":"paraphrase","language":"en","question":"In the introductory example, how does a client access the root path operation?","relevant_sources":["fastapi-first-steps.html"]}
+{"id":"ollama-01","category":"direct","language":"en","question":"What HTTP endpoint is used by the Ollama chat API?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-02","category":"direct","language":"en","question":"Which field selects the model in an Ollama chat request?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-03","category":"direct","language":"en","question":"Which request field contains the conversation messages sent to Ollama?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-04","category":"technical","language":"en","question":"What information does a message object carry in a chat request?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-05","category":"direct","language":"en","question":"How can a client request a non-streaming response from the Ollama chat endpoint?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-06","category":"paraphrase","language":"en","question":"How does an application send a conversation to a local Ollama model over HTTP?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-07","category":"technical","language":"en","question":"What is the purpose of the Ollama /api/chat endpoint?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-08","category":"paraphrase","language":"en","question":"Which API path should a client call to generate a chat response with Ollama?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-09","category":"multilingual","language":"es","question":"¿Qué endpoint de Ollama se utiliza para enviar mensajes a un modelo de chat?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-10","category":"multilingual","language":"es","question":"¿Qué campo indica el nombre del modelo en una solicitud de chat de Ollama?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-11","category":"multilingual","language":"es","question":"¿Qué campo contiene la lista de mensajes de una conversación?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-12","category":"technical","language":"en","question":"What request option disables streaming for an Ollama chat response?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-13","category":"paraphrase","language":"en","question":"How is the conversation history represented in an Ollama chat request?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-14","category":"multilingual","language":"es","question":"¿Cómo se solicita una respuesta completa en lugar de una respuesta transmitida por streaming?","relevant_sources":["ollama-chat-api.html"]}
+{"id":"ollama-15","category":"direct","language":"en","question":"Which official API documentation describes sending messages to an Ollama model?","relevant_sources":["ollama-chat-api.html"]}

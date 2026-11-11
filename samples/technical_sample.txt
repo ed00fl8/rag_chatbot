@@ -1,0 +1,9 @@
+Python is a general-purpose programming language created by Guido van Rossum.
+
+PyTorch is a machine learning framework used to build and train neural networks.
+
+An artificial neural network learns by adjusting its parameters during training.
+
+Sentence Transformers generates dense vector representations of text for semantic search.
+
+FAISS is a library for efficient similarity search over dense vectors.
